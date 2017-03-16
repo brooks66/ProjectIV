@@ -1,1 +1,1 @@
-Praise the sun! \[T]/
+Praise the sun! \\[T]/
