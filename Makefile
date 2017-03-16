@@ -5,7 +5,7 @@ SHELL=    bash
 all: site-tester
 
 site-tester: site-tester.cpp
-	$(CXX) $(CXXFLAGS) -o $@ $^
+	$(CXX) $(CXXFLAGS) -o $@ $^ -lcurl
 
 clean:
 	rm -f site-tester
