@@ -1,0 +1,5 @@
+PERIOD_FETCH=181
+NUM_FETCH=2
+NUM_PARSE=2
+SEARCH_FILE=searchthegudz.txt
+SITE_FILE=sitesthegudz.txt
